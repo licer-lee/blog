@@ -44,9 +44,9 @@ https://www.digitalocean.com
 pip是 python 的包管理工具。在本文中将使用 python 版本的 shadowsocks，此版本的 shadowsocks 已发布到 pip 上，因此我们需要通过 pip 命令来安装。
 
 在控制台执行以下命令安装 pip：
-
 [root@server ~]# curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
 [root@server ~]# python get-pip.py
+
 安装配置 shadowsocks
 在控制台执行以下命令安装 shadowsocks：
 
